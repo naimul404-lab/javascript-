@@ -1,0 +1,15 @@
+{
+  "name": "javascript-learning-pack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JavaScript learning examples and beginner projects",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "calculator": "node 08_projects/calculator.js",
+    "quiz": "node 08_projects/quiz.js",
+    "todo": "node 08_projects/todo.js"
+  }
+}
